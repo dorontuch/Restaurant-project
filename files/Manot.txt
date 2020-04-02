@@ -1,0 +1,5 @@
+Falafel 40 10 N
+Pasta 22 30 N
+Steak 31 25 Y
+Carpaccio 13 40 Y
+Fish 10 20 N
